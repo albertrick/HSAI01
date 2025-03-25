@@ -1,0 +1,2 @@
+The program is a solution to the first exercise in the teacher training: Programming AI applications using Gemini API for high school students in Python and Java. The training began in February 2025.
+In the program, the user takes a picture of a fruit or vegetable, sends a query to identify the object. If the object is identified as a fruit or vegetable, the AI ​​returns the object identification and a recipe that uses the identified object.
